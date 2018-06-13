@@ -1,11 +1,11 @@
-#Country Searcher
+## Country Searcher
 
 Technologies: ReactJS, React Router, Redux.
 
 An application in which users can view the flags of countries, click on the flag of interest and see detailed information about the selected country.
 It is possible to remove a country from the list, search it by name and filter countries located on a specific continent.
 
-Demo: 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
